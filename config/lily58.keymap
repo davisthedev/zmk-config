@@ -53,7 +53,7 @@
         lower_left {
             bindings = <
 &trans  &trans     &trans            &trans          &trans                &trans                         &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp EXCL   &kp AT            &kp HASH        &kp PERCENT           &kp CARET                      &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp EXCL   &kp AT            &kp HASH        &kp DOLLAR            &kp CARET                      &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &kp GRAVE  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp LT                         &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans     &trans            &trans          &trans                &trans      &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                      &trans          &trans                &kp LSHIFT  &kp ESC    &trans  &trans  &trans  &trans
